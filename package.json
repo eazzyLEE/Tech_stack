@@ -9,7 +9,7 @@
   "dependencies": {
     "babel-preset-react-native": "^2.1.0",
     "react": "16.4.1",
-    "react-native": "^0.55.4",
+    "react-native": "^0.70.2",
     "react-redux": "^5.0.7",
     "redux": "^3.6.0"
   },
